@@ -1,0 +1,465 @@
+Tick (✓) whether the following are examples of internal or external hardware devices.
+1
+external
+(✓)
+internal
+(✓)
+Mouse
+Video card
+Printer
+Actuator
+[2]
+Geeta spends a great deal of time at work entering data into her computer.
+State three items of hardware that Geeta should be provided with to help avoid RSI when she
+enters data into the computer.
+2
+1 
+
+2 
+
+3 
+
+[3]
+
+2
+Question 3 starts on page 4.
+
+
+3
+Falyaz has created a diary using word processing software. The diary entry for 17th May 2020 is
+shown.
+3
+Write down four formatting features of the word processing software used to make this diary
+entry.
+(a)
+Feature 1
+
+Feature 2
+
+Feature 3
+
+Feature 4
+
+[4]
+
+4
+The original diary entry typed into the word processing software did not include an image.
+Describe the steps that would be carried out by Falyaz to include in his diary entry an image
+taken from his digital camera.
+(b)
+
+
+
+
+
+
+
+
+
+
+
+
+[6]
+Name two other sources of digital images apart from using a digital camera.
+(c)
+Source 1
+
+Source 2
+
+[2]
+
+
+5
+Tick (✓) whether the following statements about generic image files refer to jpg, png or gif
+file types.
+(d)
+gif
+(✓)
+png
+(✓)
+jpg
+(✓)
+This file type stores still or moving images
+This file type uses lossy compression
+This file type is used for storing photographs on a digital camera
+This file type is limited to 256 colours
+[4]
+Falyaz wants to add a header in his word processed diary.
+Explain what is meant by a header and why it is needed.
+(e)
+
+
+
+
+
+
+
+
+[4]
+
+6
+The table shows a comparison of two different types of fitness tracker. A fitness tracker contains
+a microprocessor, is worn around the wrist and monitors physical readings of the wearer.
+4
+FitB 4
+Flexi-byt 6
+Name of fitness tracker
+7 days
+20 days
+Battery life in days
+WiFi
+Bluetooth
+Method of internet connection
+10m
+100m
+Water resistant
+N
+Y
+GPS
+INR 10700
+INR 22855
+Cost
+You have been asked to design a poster to show this data for the two fitness trackers.
+Describe how you would use six different design features to enhance the data in this poster.
+The poster must be suitable for an audience of adult customers.
+(a)
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+[6]
+
+
+7
+Describe the computer processing involved in the use of a microprocessor-controlled fitness
+tracker when displaying and monitoring the blood pressure of the user.
+(b)
+
+
+
+
+
+
+
+
+[4]
+A parent is concerned about his children sending texts. When sending a text, it is important to follow
+netiquette.
+5
+Explain what is meant by the term netiquette.
+(a)
+
+
+
+
+[2]
+
+8
+The parent is planning to produce a number of rules to ensure that his children follow netiquette
+when texting other people.
+Write down four rules that he could include in his list.
+(b)
+1
+
+2
+
+3
+
+4
+
+[4]
+Complete the following sentences, using the most appropriate direct data entry device.
+6
+a magnetic stripe reader
+MICR
+a chip reader
+a bar code reader
+RFID reader
+PIN pad
+OMR
+OCR
+The device that reads data from a card in a contactless card system is called
+(a)
+
+[1]
+The device that reads scanned text and converts it into a readable form is called
+(b)
+
+[1]
+The device that reads the data made up of black lines and spaces on household goods is
+called
+(c)
+
+[1]
+
+
+9
+A school is planning to introduce a contactless card system for pupils to pay for school meals. Each
+card contains an amount of money which is topped up by parents. Parents transfer amounts of
+7
+money into the school system and pupils place the card close to a reader to upload the money onto
+the card.
+Discuss the benefits and drawbacks, to the pupils, of using a contactless card system rather
+than paying by cash.
+(a)
+
+
+
+
+
+
+
+
+
+
+
+
+[6]
+
+10
+The terminals in the school use electronic funds transfer at point of sale (EFTPOS).
+Describe the computer processing that takes place to pay for a meal at the EFTPOS terminal
+using the card.
+(b)
+
+
+
+
+
+
+
+
+
+
+
+
+[6]
+
+
+11
+A computer system is being created to calculate the scores in a diving competition. Every dive by
+an athlete is awarded a score out of 10 by each judge.
+8
+The system is being tested using live data. An athlete completes his dive with a difficulty of 3.4 and
+achieves the following scores, which are displayed in a spreadsheet.
+Before the overall score is calculated the judges’ scores need to be sorted into ascending
+order.
+Describe the steps that would be carried out to sort the data into ascending order.
+(a)
+
+
+
+
+
+
+[3]
+
+12
+Cell B12 contains the formula, ROUND((SUM(B5:B9)*D1),1).
+Explain what the formula in cell B12 does.
+(b)
+
+
+
+
+
+
+[3]
+The judges’ score column will be tested using normal, abnormal and extreme data.
+Explain, giving examples of test data which would be used, what is meant by:
+(c)
+Abnormal test data
+
+
+
+Extreme test data
+
+
+
+[4]
+
+
+13
+Tawara school uses an optical mark recognition (OMR) system for its school register. An example
+of the register is shown. For each session of the school there are two lozenges to be shaded in.
+9
+At the start of the registration period the teacher shades in a lozenge [P] on the register to show
+that a pupil is present and shades in a lozenge [A] for each pupil who is absent. If a pupil is late
+then the teacher shades in both the [P] and the [A] lozenges. The register sheets are sent to the
+school office to be processed and the data from them is stored in the computer’s database.
+Describe the inputs and computer processing of the registers when they are sent to the school
+office, prior to them being stored on the computer’s database.
+(a)
+
+
+
+
+
+
+
+
+
+
+
+
+[6]
+
+14
+The headteacher of the school is considering modernising the registration system so that pupils
+can register using a facial recognition system.
+Discuss the advantages and disadvantages of using a facial recognition registration system
+rather than the OMR system they currently use.
+(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[8]
+
+
+15
+Biometric data, like facial recognition, is an example of personal data.
+Give two other examples of personal data that could be stored on the school registration
+database.
+(c)
+1
+
+2
+
+[2]
+
+16
+Computer data can be stored on physical storage devices. Data can also be stored in the ‘cloud’.
+10
+Explain what is meant by the cloud, giving two advantages of storing data in the cloud compared
+with physical storage devices.
+(a)
+Explanation
+
+
+
+Advantage 1
+
+Advantage 2
+
+[4]
+Tick (✓) whether the following storage devices are examples of optical, magnetic or solid
+state storage.
+(b)
+solid state
+(✓)
+magnetic
+(✓)
+optical
+(✓)
+Flash drive
+Hard disk drive
+Blu-ray disc drive
+SSD
+[4]
+
+
+17
+The owner of a bookshop has a database of all the books she has in stock. As some of the data
+is being entered into the database it is checked using validation checks.
+11
+An example of some of the records in the database is shown.
+Example data
+Field name
+Brotherhood of Wisdom
+Name of book
+Colin Turner
+Name of author
+471837951
+ISBN
+25/02/2021
+Date of purchase
+10
+Number of copies
+E
+Type of book
+The Fourth Man
+Name of book
+Aadha Khatri
+Name of author
+0718121753
+ISBN
+18/03/2019
+Date of purchase
+53
+Number of copies
+H
+Type of book
+Indian Temples
+Name of Book
+Vihaan Laghan
+Name of author
+978147183215
+ISBN
+12/02/2019
+Date of purchase
+30
+Number of copies
+H
+Type of book
+
+18
+Explain, using a field name and examples of the data stored in that field in the database, why
+validation checks must be appropriate to the data that is being checked.
+
+
+
+
+
+
+
+
+[4]
+A company has placed a firewall between their Local Area Network (LAN) and their internet
+connection. This is used to increase security in their computer systems.
+Discuss the effectiveness of using this firewall to increase security.
+12
+
+
+
+
+
+
+
+
+
+
+
+
+[6]
+
+19Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every reasonable
+effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will
+be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment
+International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at
+www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of
+Cambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge.
+
+20
