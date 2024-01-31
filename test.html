@@ -19,9 +19,9 @@
   </div>
   <script>
     let rows;
-    const IGCS = ["igcs.csv", "IGCSE Computer Science"]
-    const IGICT = ['igict.csv', "IGCSE ICT"]
-    let current_paper = IGICT
+    const IGCS = ["output_cs.csv", "IGCSE Computer Science"]
+    const IGICT = ['output.csv', "IGCSE ICT"]
+    let current_paper = IGCS
     document.addEventListener('DOMContentLoaded', () => {
       // Specify the path to your local CSV file
       const csvFilePath = 'http://localhost:8000/' + current_paper[0];
@@ -38,6 +38,7 @@
 
     function displayQuestion() {
       const randomRow = rows[Math.floor(Math.random() * rows.length)].split(';');
+      console.log(randomRow)
       
       document.getElementById("header").innerText = `Subject: ${current_paper[1]} \n code: ${randomRow[0]} \n Question number: ${randomRow[1]} \n Topic: ${randomRow[5]}`
       document.getElementById("question").innerText = `${randomRow[2]} [${randomRow[3]}]`
